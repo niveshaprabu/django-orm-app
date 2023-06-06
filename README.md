@@ -54,7 +54,7 @@ list_display=('referencenumber','name','age','email')
 
 '''
 # OUTPUT
-![Uploading image.png…]()
+![WhatsApp Image 2023-06-06 at 22 31 33](https://github.com/niveshaprabu/django-orm-app/assets/122986499/92ea6da0-2a83-46a0-a9b6-cc6347ca1592)
 
 
 # RESULT
