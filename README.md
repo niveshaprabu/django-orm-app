@@ -4,8 +4,6 @@
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
 
 ## Entity Relationship Diagram
-![Screenshot 2023-05-29 091541](https://github.com/niveshaprabu/django-orm-app/assets/122986499/2471662d-9b25-4193-96f9-6c005f1da081)
-
 
 ## DESIGN STEPS
 
@@ -29,7 +27,6 @@ The admin page of our website is accessed using username and password.
 
 ### STEP 7:
 Records are added and saved in the table inside the database.
-
 
 ## PROGRAM
 ```
